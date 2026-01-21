@@ -7,7 +7,6 @@
 
 - [Activity 1](./activity1.md)
 - [Activity 2](./activity2.md)
-- [Activity 3](./activity3.md)
 
 ---
 
